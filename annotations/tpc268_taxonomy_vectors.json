@@ -1,0 +1,2180 @@
+{
+  "Abelmoschus esculentus": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "Abutilon indicum": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2
+  ],
+  "Acacia aspera": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    3
+  ],
+  "Vachellia tortilis": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    4,
+    4
+  ],
+  "Acer rubrum": [
+    1,
+    1,
+    1,
+    3,
+    3,
+    5,
+    5
+  ],
+  "Achyranthes aspera": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    6,
+    6
+  ],
+  "Psilotrichum argenteum": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    7,
+    7
+  ],
+  "Cyathula mucronata": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    8,
+    8
+  ],
+  "Psilotrichum recurvatum": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    7,
+    9
+  ],
+  "Centrostachys stricta": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    9,
+    10
+  ],
+  "Acmispon decumbens": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    10,
+    11
+  ],
+  "Acmispon neomexicanus": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    10,
+    12
+  ],
+  "Acmispon tomentosus": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    10,
+    13
+  ],
+  "Actinidia deliciosa": [
+    1,
+    1,
+    1,
+    5,
+    5,
+    11,
+    14
+  ],
+  "Adelinia grandis": [
+    1,
+    1,
+    1,
+    6,
+    6,
+    12,
+    15
+  ],
+  "Adenanthera pavonina": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    13,
+    16
+  ],
+  "Agaricus bisporus": [
+    2,
+    2,
+    2,
+    7,
+    7,
+    14,
+    17
+  ],
+  "Agaricus blazei": [
+    2,
+    2,
+    2,
+    7,
+    7,
+    14,
+    18
+  ],
+  "Cyclocybe aegerita": [
+    2,
+    2,
+    2,
+    7,
+    8,
+    15,
+    19
+  ],
+  "Allium cepa": [
+    1,
+    1,
+    3,
+    8,
+    9,
+    16,
+    20
+  ],
+  "Allium sativum": [
+    1,
+    1,
+    3,
+    8,
+    9,
+    16,
+    21
+  ],
+  "Amphicarpaea elliptica": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    17,
+    22
+  ],
+  "Anacardium occidentale": [
+    1,
+    1,
+    1,
+    3,
+    10,
+    18,
+    23
+  ],
+  "Ananas comosus": [
+    1,
+    1,
+    3,
+    9,
+    11,
+    19,
+    24
+  ],
+  "Anarthrophyllum desideratum": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    20,
+    25
+  ],
+  "Andesanthus lepidotus": [
+    1,
+    1,
+    1,
+    10,
+    12,
+    21,
+    26
+  ],
+  "Anemonastrum deltoideum": [
+    1,
+    1,
+    1,
+    11,
+    13,
+    22,
+    27
+  ],
+  "Annona reticulata": [
+    1,
+    1,
+    1,
+    12,
+    14,
+    23,
+    28
+  ],
+  "Annona squamosa": [
+    1,
+    1,
+    1,
+    12,
+    14,
+    23,
+    29
+  ],
+  "Arachis hypogaea": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    24,
+    30
+  ],
+  "Minuartia paludicola": [
+    1,
+    1,
+    1,
+    4,
+    15,
+    25,
+    31
+  ],
+  "Arrowsmithia tenuifolia": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    26,
+    32
+  ],
+  "Artocarpus heterophyllus": [
+    1,
+    1,
+    1,
+    14,
+    17,
+    27,
+    33
+  ],
+  "Asparagus officinalis": [
+    1,
+    1,
+    3,
+    8,
+    18,
+    28,
+    34
+  ],
+  "Averrhoa carambola": [
+    1,
+    1,
+    1,
+    15,
+    19,
+    29,
+    35
+  ],
+  "Aylostera pygmaea": [
+    1,
+    1,
+    1,
+    4,
+    20,
+    30,
+    36
+  ],
+  "Azadirachta indica": [
+    1,
+    1,
+    1,
+    3,
+    21,
+    31,
+    37
+  ],
+  "Banksia ashbyi": [
+    1,
+    1,
+    1,
+    16,
+    22,
+    32,
+    38
+  ],
+  "Benincasa hispida": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    33,
+    39
+  ],
+  "Beta vulgaris": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    34,
+    40
+  ],
+  "Boswellia sacra": [
+    1,
+    1,
+    1,
+    3,
+    24,
+    35,
+    41
+  ],
+  "Brassica napus": [
+    1,
+    1,
+    1,
+    18,
+    25,
+    36,
+    42
+  ],
+  "Brucea javanica": [
+    1,
+    1,
+    1,
+    3,
+    26,
+    37,
+    43
+  ],
+  "Bupleurum ranunculoides": [
+    1,
+    1,
+    1,
+    19,
+    27,
+    38,
+    44
+  ],
+  "Canarium album": [
+    1,
+    1,
+    1,
+    3,
+    24,
+    39,
+    45
+  ],
+  "Cannabis sativa": [
+    1,
+    1,
+    1,
+    14,
+    28,
+    40,
+    46
+  ],
+  "Capsicum annuum": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    41,
+    47
+  ],
+  "Carica papaya": [
+    1,
+    1,
+    1,
+    18,
+    30,
+    42,
+    48
+  ],
+  "Carya cathayensis": [
+    1,
+    1,
+    1,
+    21,
+    31,
+    43,
+    49
+  ],
+  "Carya illinoinensis": [
+    1,
+    1,
+    1,
+    21,
+    31,
+    43,
+    50
+  ],
+  "Carya ovata": [
+    1,
+    1,
+    1,
+    21,
+    31,
+    43,
+    51
+  ],
+  "Casearia yucatanensis": [
+    1,
+    1,
+    1,
+    22,
+    32,
+    44,
+    52
+  ],
+  "Castanea mollissima": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    45,
+    53
+  ],
+  "Ceratonia siliqua": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    46,
+    54
+  ],
+  "Chaetogastra herbacea": [
+    1,
+    1,
+    1,
+    10,
+    12,
+    47,
+    55
+  ],
+  "Chaetogastra paratropica": [
+    1,
+    1,
+    1,
+    10,
+    12,
+    47,
+    56
+  ],
+  "Cheniella corymbosa": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    48,
+    57
+  ],
+  "Cheniella glauca": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    48,
+    58
+  ],
+  "Chrysanthemum × morifolium": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    49,
+    59
+  ],
+  "Cicer arietinum": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    50,
+    60
+  ],
+  "Citrullus lanatus": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    51,
+    61
+  ],
+  "Citrus × limon": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    52,
+    62
+  ],
+  "Citrus sinensis": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    52,
+    63
+  ],
+  "Citrus tangerina": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    52,
+    64
+  ],
+  "Clausena lansium": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    53,
+    65
+  ],
+  "Cocos nucifera": [
+    1,
+    1,
+    3,
+    23,
+    35,
+    54,
+    66
+  ],
+  "Coffea arabica": [
+    1,
+    1,
+    1,
+    24,
+    36,
+    55,
+    67
+  ],
+  "Conopodium majus": [
+    1,
+    1,
+    1,
+    19,
+    27,
+    56,
+    68
+  ],
+  "Coprinus comatus": [
+    2,
+    2,
+    2,
+    7,
+    7,
+    57,
+    69
+  ],
+  "Cordeauxia edulis": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    58,
+    70
+  ],
+  "Cordia sinensis": [
+    1,
+    1,
+    1,
+    6,
+    37,
+    59,
+    71
+  ],
+  "Corylus heterophylla": [
+    1,
+    1,
+    1,
+    21,
+    38,
+    60,
+    72
+  ],
+  "Crataegus pinnatifida": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    61,
+    73
+  ],
+  "Crotalaria magaliesbergensis": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    62,
+    74
+  ],
+  "Cucumis anguria": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    63,
+    75
+  ],
+  "Cucumis melo": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    63,
+    76
+  ],
+  "Cucumis sativus": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    63,
+    77
+  ],
+  "Cucurbita maxima": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    64,
+    78
+  ],
+  "Cucurbita pepo": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    64,
+    79
+  ],
+  "Cyanothamnus coerulescens": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    65,
+    80
+  ],
+  "Cyanothamnus nanus": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    65,
+    81
+  ],
+  "Cyanothamnus polygalifolius": [
+    1,
+    1,
+    1,
+    3,
+    34,
+    65,
+    82
+  ],
+  "Cyclamen creticum": [
+    1,
+    1,
+    1,
+    5,
+    40,
+    66,
+    83
+  ],
+  "Cyclamen hederifolium": [
+    1,
+    1,
+    1,
+    5,
+    40,
+    66,
+    84
+  ],
+  "Dalbergia brownei": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    67,
+    85
+  ],
+  "Daucus carota": [
+    1,
+    1,
+    1,
+    19,
+    27,
+    68,
+    86
+  ],
+  "Deutzia rugulosa": [
+    1,
+    1,
+    1,
+    25,
+    41,
+    69,
+    87
+  ],
+  "Dianthus caryophyllus": [
+    1,
+    1,
+    1,
+    4,
+    15,
+    70,
+    88
+  ],
+  "Didymanthus littoreus": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    71,
+    89
+  ],
+  "Didymanthus trilobus": [
+    1,
+    1,
+    1,
+    4,
+    4,
+    71,
+    90
+  ],
+  "Diospyros kaki": [
+    1,
+    1,
+    1,
+    5,
+    42,
+    72,
+    91
+  ],
+  "Dirca palustris": [
+    1,
+    1,
+    1,
+    1,
+    43,
+    73,
+    92
+  ],
+  "Eucephalus breweri": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    74,
+    93
+  ],
+  "Eucephalus engelmannii": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    74,
+    94
+  ],
+  "Eucephalus ledophyllus": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    74,
+    95
+  ],
+  "Donnellsmithia juncea": [
+    1,
+    1,
+    1,
+    19,
+    27,
+    75,
+    96
+  ],
+  "Drosanthemum calcareum": [
+    1,
+    1,
+    1,
+    4,
+    44,
+    76,
+    97
+  ],
+  "Aglaomorpha fortunei": [
+    1,
+    1,
+    4,
+    26,
+    45,
+    77,
+    98
+  ],
+  "Durio zibethinus": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    78,
+    99
+  ],
+  "Eleocharis dulcis": [
+    1,
+    1,
+    3,
+    9,
+    46,
+    79,
+    100
+  ],
+  "Epiphyllum oxypetalum": [
+    1,
+    1,
+    1,
+    4,
+    20,
+    80,
+    101
+  ],
+  "Eriolarynx australis": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    81,
+    102
+  ],
+  "Eryngium carlinae": [
+    1,
+    1,
+    1,
+    19,
+    27,
+    82,
+    103
+  ],
+  "Euploca foliosissima": [
+    1,
+    1,
+    1,
+    6,
+    47,
+    83,
+    104
+  ],
+  "Fenestraria rhopalophylla": [
+    1,
+    1,
+    1,
+    4,
+    44,
+    84,
+    105
+  ],
+  "Ficus carica": [
+    1,
+    1,
+    1,
+    14,
+    17,
+    85,
+    106
+  ],
+  "Fragaria × ananassa": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    86,
+    107
+  ],
+  "Frankenia salsoloides": [
+    1,
+    1,
+    1,
+    4,
+    48,
+    87,
+    108
+  ],
+  "Fraxinus excelsior": [
+    1,
+    1,
+    1,
+    27,
+    49,
+    88,
+    109
+  ],
+  "Garcinia mangostana": [
+    1,
+    1,
+    1,
+    22,
+    50,
+    89,
+    110
+  ],
+  "Gelasia cretica": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    90,
+    111
+  ],
+  "Gelasia ensifolia": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    90,
+    112
+  ],
+  "Scorzonera filifolia": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    91,
+    113
+  ],
+  "Giliastrum rigidulum": [
+    1,
+    1,
+    1,
+    5,
+    51,
+    92,
+    114
+  ],
+  "Glycine max": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    93,
+    115
+  ],
+  "Helianthus annuus": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    94,
+    116
+  ],
+  "Holboellia latifolia": [
+    1,
+    1,
+    1,
+    11,
+    52,
+    95,
+    117
+  ],
+  "Hypochaeris valdesii": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    96,
+    118
+  ],
+  "Ilex opaca": [
+    1,
+    1,
+    1,
+    28,
+    53,
+    97,
+    119
+  ],
+  "Ipomoea batatas": [
+    1,
+    1,
+    1,
+    20,
+    54,
+    98,
+    120
+  ],
+  "Jacobaea taitungensis": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    99,
+    121
+  ],
+  "Jaumea ciliata": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    100,
+    122
+  ],
+  "Juglans regia": [
+    1,
+    1,
+    1,
+    21,
+    31,
+    101,
+    123
+  ],
+  "Lablab purpureus": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    102,
+    124
+  ],
+  "Lactuca sativa": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    103,
+    125
+  ],
+  "Lagenaria siceraria": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    104,
+    126
+  ],
+  "Aglaia parasitica": [
+    1,
+    1,
+    1,
+    3,
+    21,
+    105,
+    127
+  ],
+  "Laserpitium gallicum": [
+    1,
+    1,
+    1,
+    19,
+    27,
+    106,
+    128
+  ],
+  "Leptosiphon nuttallii": [
+    1,
+    1,
+    1,
+    5,
+    51,
+    107,
+    129
+  ],
+  "Litchi chinensis": [
+    1,
+    1,
+    1,
+    3,
+    3,
+    108,
+    130
+  ],
+  "Lordhowea amygdalifolia": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    109,
+    131
+  ],
+  "Lordhowea velleioides": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    109,
+    132
+  ],
+  "Luffa aegyptiaca": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    110,
+    133
+  ],
+  "Lycium barbarum": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    111,
+    134
+  ],
+  "Magnolia denudata": [
+    1,
+    1,
+    1,
+    12,
+    55,
+    112,
+    135
+  ],
+  "Malus domestica": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    113,
+    136
+  ],
+  "Mangifera indica": [
+    1,
+    1,
+    1,
+    3,
+    10,
+    114,
+    137
+  ],
+  "Manihot esculenta": [
+    1,
+    1,
+    1,
+    22,
+    56,
+    115,
+    138
+  ],
+  "Manilkara zapota": [
+    1,
+    1,
+    1,
+    5,
+    57,
+    116,
+    139
+  ],
+  "Matourea azurea": [
+    1,
+    1,
+    1,
+    27,
+    58,
+    117,
+    140
+  ],
+  "Mentha canadensis": [
+    1,
+    1,
+    1,
+    27,
+    59,
+    118,
+    141
+  ],
+  "Asimitellaria formosana": [
+    1,
+    1,
+    1,
+    29,
+    60,
+    119,
+    142
+  ],
+  "Momordica charantia": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    120,
+    143
+  ],
+  "Mononeuria caroliniana": [
+    1,
+    1,
+    1,
+    4,
+    15,
+    121,
+    144
+  ],
+  "Moringa oleifera": [
+    1,
+    1,
+    1,
+    18,
+    61,
+    122,
+    145
+  ],
+  "Morus alba": [
+    1,
+    1,
+    1,
+    14,
+    17,
+    123,
+    146
+  ],
+  "Musa × paradisiaca": [
+    1,
+    1,
+    3,
+    30,
+    62,
+    124,
+    147
+  ],
+  "Morella pensylvanica": [
+    1,
+    1,
+    1,
+    21,
+    63,
+    125,
+    148
+  ],
+  "Narcissus pseudonarcissus": [
+    1,
+    1,
+    3,
+    8,
+    9,
+    126,
+    149
+  ],
+  "Nelumbo nucifera": [
+    1,
+    1,
+    1,
+    16,
+    64,
+    127,
+    150
+  ],
+  "Nepenthes × ventrata": [
+    1,
+    1,
+    1,
+    4,
+    65,
+    128,
+    151
+  ],
+  "Nephelium lappaceum": [
+    1,
+    1,
+    1,
+    3,
+    3,
+    129,
+    152
+  ],
+  "Nicotiana tabacum": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    130,
+    153
+  ],
+  "Vaccinium arisanense": [
+    1,
+    1,
+    1,
+    5,
+    66,
+    131,
+    154
+  ],
+  "Nyssa sylvatica": [
+    1,
+    1,
+    1,
+    25,
+    67,
+    132,
+    155
+  ],
+  "Opuntia ficus-indica": [
+    1,
+    1,
+    1,
+    4,
+    20,
+    133,
+    156
+  ],
+  "Ormosia ormondii": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    134,
+    157
+  ],
+  "Oryza sativa": [
+    1,
+    1,
+    3,
+    9,
+    68,
+    135,
+    158
+  ],
+  "Passiflora edulis": [
+    1,
+    1,
+    1,
+    22,
+    69,
+    136,
+    159
+  ],
+  "Peniocereus viperinus": [
+    1,
+    1,
+    1,
+    4,
+    20,
+    137,
+    160
+  ],
+  "Pentanema britannica": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    138,
+    161
+  ],
+  "Pentanema conyzae": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    138,
+    162
+  ],
+  "Pentanema helenioides": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    138,
+    163
+  ],
+  "Pentanema orientale": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    138,
+    164
+  ],
+  "Pentanema spiraeifolium": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    138,
+    165
+  ],
+  "Persea americana": [
+    1,
+    1,
+    1,
+    31,
+    70,
+    139,
+    166
+  ],
+  "Phaseolus vulgaris": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    140,
+    167
+  ],
+  "Phoenix dactylifera": [
+    1,
+    1,
+    3,
+    23,
+    35,
+    141,
+    168
+  ],
+  "Pilosocereus curtisii": [
+    1,
+    1,
+    1,
+    4,
+    20,
+    142,
+    169
+  ],
+  "Pisum sativum": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    143,
+    170
+  ],
+  "Pleurotus eryngii": [
+    2,
+    2,
+    2,
+    7,
+    71,
+    144,
+    171
+  ],
+  "Populus tomentosa": [
+    1,
+    1,
+    1,
+    22,
+    32,
+    145,
+    172
+  ],
+  "Potentilla indica": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    146,
+    173
+  ],
+  "Prunus armeniaca": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    147,
+    174
+  ],
+  "Prunus avium": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    147,
+    175
+  ],
+  "Prunus davidiana": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    147,
+    176
+  ],
+  "Prunus domestica": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    147,
+    177
+  ],
+  "Prunus dulcis": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    147,
+    178
+  ],
+  "Prunus persica": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    147,
+    179
+  ],
+  "Pseudopodospermum hispanicum": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    148,
+    180
+  ],
+  "Punica granatum": [
+    1,
+    1,
+    1,
+    10,
+    72,
+    149,
+    181
+  ],
+  "Pyrus communis": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    150,
+    182
+  ],
+  "Quercus michauxii": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    183
+  ],
+  "Quercus nigra": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    184
+  ],
+  "Quercus pagoda": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    185
+  ],
+  "Quercus phellos": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    186
+  ],
+  "Quercus shumardii": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    187
+  ],
+  "Quercus stellata": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    188
+  ],
+  "Quercus texana": [
+    1,
+    1,
+    1,
+    21,
+    33,
+    151,
+    189
+  ],
+  "Rabelera holostea": [
+    1,
+    1,
+    1,
+    4,
+    15,
+    152,
+    190
+  ],
+  "Raphanus raphanistrum": [
+    1,
+    1,
+    1,
+    18,
+    25,
+    153,
+    191
+  ],
+  "Raphanus sativus": [
+    1,
+    1,
+    1,
+    18,
+    25,
+    153,
+    192
+  ],
+  "Ricinus communis": [
+    1,
+    1,
+    1,
+    22,
+    56,
+    154,
+    193
+  ],
+  "Rosa rugosa": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    155,
+    194
+  ],
+  "Rubus idaeus": [
+    1,
+    1,
+    1,
+    14,
+    39,
+    156,
+    195
+  ],
+  "Salix babylonica": [
+    1,
+    1,
+    1,
+    22,
+    32,
+    157,
+    196
+  ],
+  "Salvadora persica": [
+    1,
+    1,
+    1,
+    18,
+    73,
+    158,
+    197
+  ],
+  "Sandoricum koetjape": [
+    1,
+    1,
+    1,
+    3,
+    21,
+    159,
+    198
+  ],
+  "Sapindus saponaria": [
+    1,
+    1,
+    1,
+    3,
+    3,
+    160,
+    199
+  ],
+  "Schinus molle": [
+    1,
+    1,
+    1,
+    3,
+    10,
+    161,
+    200
+  ],
+  "Selenicereus undatus": [
+    1,
+    1,
+    1,
+    4,
+    20,
+    162,
+    201
+  ],
+  "Senegalia senegal": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    163,
+    202
+  ],
+  "Silene stellata": [
+    1,
+    1,
+    1,
+    4,
+    15,
+    164,
+    203
+  ],
+  "Siraitia grosvenorii": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    165,
+    204
+  ],
+  "Sohmaea laxiflora": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    166,
+    205
+  ],
+  "Solanum lycopersicum": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    167,
+    206
+  ],
+  "Solanum melongena": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    167,
+    207
+  ],
+  "Solanum torvum": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    167,
+    208
+  ],
+  "Solanum tuberosum": [
+    1,
+    1,
+    1,
+    20,
+    29,
+    167,
+    209
+  ],
+  "Sorghum bicolor": [
+    1,
+    1,
+    3,
+    9,
+    68,
+    168,
+    210
+  ],
+  "Spondias dulcis": [
+    1,
+    1,
+    1,
+    3,
+    10,
+    169,
+    211
+  ],
+  "Stauntonia chinensis": [
+    1,
+    1,
+    1,
+    11,
+    52,
+    170,
+    212
+  ],
+  "Syzygium jambos": [
+    1,
+    1,
+    1,
+    10,
+    74,
+    171,
+    213
+  ],
+  "Syzygium samarangense": [
+    1,
+    1,
+    1,
+    10,
+    74,
+    171,
+    214
+  ],
+  "Tamarindus indica": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    172,
+    215
+  ],
+  "Tanaecium dichotomum": [
+    1,
+    1,
+    1,
+    27,
+    75,
+    173,
+    216
+  ],
+  "Theobroma cacao": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    174,
+    217
+  ],
+  "Tibetiodes asteroides": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    175,
+    218
+  ],
+  "Aster flaccidus": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    176,
+    219
+  ],
+  "Toiyabea peirsonii": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    177,
+    220
+  ],
+  "Tribulus terrestris": [
+    1,
+    1,
+    1,
+    32,
+    76,
+    178,
+    221
+  ],
+  "Trichosanthes cucumerina": [
+    1,
+    1,
+    1,
+    17,
+    23,
+    179,
+    222
+  ],
+  "Triticum aestivum": [
+    1,
+    1,
+    3,
+    9,
+    68,
+    180,
+    223
+  ],
+  "Tulipa gesneriana": [
+    1,
+    1,
+    3,
+    33,
+    77,
+    181,
+    224
+  ],
+  "Ulmus alata": [
+    1,
+    1,
+    1,
+    14,
+    78,
+    182,
+    225
+  ],
+  "Ulmus americana": [
+    1,
+    1,
+    1,
+    14,
+    78,
+    182,
+    226
+  ],
+  "Vaccinium corymbosum": [
+    1,
+    1,
+    1,
+    5,
+    66,
+    131,
+    227
+  ],
+  "Vaccinium myrtillus": [
+    1,
+    1,
+    1,
+    5,
+    66,
+    131,
+    228
+  ],
+  "Vaccinium stamineum": [
+    1,
+    1,
+    1,
+    5,
+    66,
+    131,
+    229
+  ],
+  "Vaccinium vitis-idaea": [
+    1,
+    1,
+    1,
+    5,
+    66,
+    131,
+    230
+  ],
+  "Vatica mangachapoi": [
+    1,
+    1,
+    1,
+    1,
+    79,
+    183,
+    231
+  ],
+  "Vernicia fordii": [
+    1,
+    1,
+    1,
+    22,
+    56,
+    184,
+    232
+  ],
+  "Vincetoxicum koi": [
+    1,
+    1,
+    1,
+    24,
+    80,
+    185,
+    233
+  ],
+  "Vitis vinifera": [
+    1,
+    1,
+    1,
+    34,
+    81,
+    186,
+    234
+  ],
+  "Walsholaria magniflora": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    187,
+    235
+  ],
+  "Walsholaria muelleri": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    187,
+    236
+  ],
+  "Pascalia mexicana": [
+    1,
+    1,
+    1,
+    13,
+    16,
+    188,
+    237
+  ],
+  "Wissadula excelsior": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    189,
+    238
+  ],
+  "Ximenia caffra": [
+    1,
+    1,
+    1,
+    35,
+    82,
+    190,
+    239
+  ],
+  "Zea mays": [
+    1,
+    1,
+    3,
+    9,
+    68,
+    191,
+    240
+  ],
+  "Ziziphus jujuba": [
+    1,
+    1,
+    1,
+    14,
+    83,
+    192,
+    241
+  ],
+  "Ziziphus mauritiana": [
+    1,
+    1,
+    1,
+    14,
+    83,
+    192,
+    242
+  ]
+}
